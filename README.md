@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stefan</h1>
-<h3 align="center">I am a student and passionate 3D game engine developer.</h3>
+<h3 align="center">I am a Computer Engineering student who is passionate about computer graphics and game engines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefan-png&label=Profile%20views&color=0e75b6&style=flat" alt="stefan-png" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a 3D game engine [BIGGEngine](https://github.com/stefan-png/BIGGEngine)
 
-- 🌱 I’m currently learning **the BIGG stack + scripting in lua.**
+- 🌱 I’m currently learning **scripting in lua and python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/stefan-png](https://github.com/stefan-png)
 
@@ -29,7 +29,3 @@
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
 <img src="http://www.andreas-rozek.de/Lua/Lua-Logo_128x128.png" alt="lua" width="40" height="40"/> </a> </p> </a>
 </p> 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefan-png&show_icons=true&locale=en&layout=compact" alt="stefan-png" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stefan-png&show_icons=true&locale=en" alt="stefan-png" /></p>
